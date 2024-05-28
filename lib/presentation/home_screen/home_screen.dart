@@ -40,7 +40,7 @@ class HomeScreen extends StatelessWidget {
                   );
                 });
           }
-          return Text('data');
+          return Text('Error');
         },
       ),
     );
